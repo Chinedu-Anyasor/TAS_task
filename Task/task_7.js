@@ -11,4 +11,4 @@ const typeOfTriangle = (x,y,z) => {
     }
 }
 
-typeOfTriangle(1,2,3);
+typeOfTriangle(1,2,4);
